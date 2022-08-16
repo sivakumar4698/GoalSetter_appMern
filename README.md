@@ -36,5 +36,6 @@ Have a look at the UI, I have made it look good and interactive
 - Navigate to frontend directory. - Run the following command "npm install"
 - Now you have the node modules which you require.
 - Next navigate to the root directory and run "npm run dev"
-- 
+- I have also provided the env file. So, this should help the application to access the Mongo_URI and other details.
+- Once the app is deployed I will put on the link here.
 
